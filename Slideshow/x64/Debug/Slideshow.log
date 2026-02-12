@@ -1,0 +1,10 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in C:\Users\Lasse\Documents\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  pch.cpp
+  dllmain.cpp
+C:\Users\Lasse\Documents\Projects\DirectGadgets\Slideshow\dllmain.cpp(118,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+  ThreadWrapper.cpp
+  Generating Code...
+     Creating library C:\Users\Lasse\Documents\Projects\DirectGadgets\x64\Debug\Slideshow.lib and object C:\Users\Lasse\Documents\Projects\DirectGadgets\x64\Debug\Slideshow.exp
+  Slideshow.vcxproj -> C:\Users\Lasse\Documents\Projects\DirectGadgets\x64\Debug\Slideshow.dll
